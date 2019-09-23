@@ -9,7 +9,7 @@ Start the app with `node liri.js`
 
 Entering `OPTIONS` displays all options.
 
-![options](./images/1)
+![options](./images/1.png)
 
 ### Bands in Town
 
