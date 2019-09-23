@@ -19,12 +19,12 @@ Entering `movie-this` prompts for which movie you would like information for, an
 
 ![options](./images/3.png)
 
-Entering `spotify-this-song` prompts for which song you would like information for, and displays the results.
+Entering `spotify-this-song` prompts for which song title you would like information for, and displays the results.
 
 ![options](./images/5.png)
 
 Entering `do-what-it-says` runs the search and query parameter entered in the random.txt file, and displays the results.
 
-![options](./images/5.png)
+![options](./images/6.png)
 
 Entering `EXIT` exits the program.
