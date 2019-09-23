@@ -51,6 +51,7 @@ const displayOptions = function(){
   console.log("concert-this: Displays concert information for artist entered.");
   console.log("spotify-this-song: Displays song information for song entered.");
   console.log("movie-this: Displays movie information for movie entered.");
+  console.log("do-what-it-says: Runs search entered in random.txt file.");
   console.log("EXIT: exits the program.");
   askQuestion();
 }
