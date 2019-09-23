@@ -132,7 +132,10 @@ const movieThis = function(){
   ]).then(function(answers) {
     
    var movie = answers.movie;
-   searchMovie(movie);
+   if (movie === ""){
+    movie = "Mr. Nobody";
+  }
+   movieSearch(movie);
    
   })
 };
