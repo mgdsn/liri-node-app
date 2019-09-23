@@ -137,7 +137,7 @@ const movieThis = function(){
   })
 };
 
-const searchMovie = function(movie){
+const movieSearch = function(movie){
   axios.get("http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy").then(
     function(response) {
       console.log("Movie information for " + movie + "\n");
